@@ -20,5 +20,7 @@ I'm passionate about exploring the intersections of Data Science, Cyber Security
 
 ## Get in Touch
 
-- 📫 **How to Reach Me:** **Whatsapp**- +2347062459256 **Gmail** - pilotsaviour229@gmail.com **Linkedin** - https://www.linkedin.com/in/praise-omosanya/
+- 📫 **How to Reach Me:** **Whatsapp**- +2347062459256
+- **Gmail** - pilotsaviour229@gmail.com
+- **Linkedin** - https://www.linkedin.com/in/praise-omosanya/
 
