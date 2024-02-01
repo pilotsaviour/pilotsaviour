@@ -7,12 +7,11 @@ I'm passionate about exploring the intersections of Data Science, Cyber Security
 ## Interests
 
 - 👀 **Data Science:** Unraveling insights from data, finding patterns, and crafting stories that data tells.
-- 🔒 **Cyber Security:** Safeguarding digital landscapes and developing strategies to protect against evolving cyber threats.
 - 🤖 **Artificial Intelligence:** Exploring the realms of AI, from machine learning to deep learning, and its transformative applications.
 
 ## Learning Journey
 
-- 🌱 **Currently Learning:** Keeping myself updated with the latest advancements in Data Science, Cyber Security protocols, and AI algorithms.
+- 🌱 **Currently Learning:** Keeping myself updated with the latest advancements in Data Science, and AI algorithms.
   
 ## Collaboration
 
